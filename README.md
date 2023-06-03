@@ -1,2 +1,2 @@
-# CrisuBot
+# LunarisBot
 Improved version of Chummy Bot for my Discord Server
