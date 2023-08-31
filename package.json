@@ -1,0 +1,25 @@
+{
+  "name": "lunarisbot",
+  "version": "1.0.0",
+  "description": "Improved version of Chummy Bot for my Discord Server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Crisu07/LunarisBot.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Crisu07/LunarisBot/issues"
+  },
+  "homepage": "https://github.com/Crisu07/LunarisBot#readme",
+  "dependencies": {
+    "discord.js": "^14.13.0",
+    "dotenv": "^16.3.1",
+    "openai": "^4.3.1"
+  }
+}
