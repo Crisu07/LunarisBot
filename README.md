@@ -6,7 +6,7 @@ LunarisBot is a bot for my personal discord server. It will serve as a helpful C
 [] implement spotify music player\
 [] switch friend code feature\
 [] pickup line generator\
-[x] implement ChatGBT extension (references OpenAI fine, needs more tuning)
+[x] implement ChatGBT extension (references OpenAI fine, needs more tuning)\
 
 ## How to run Lunaris Bot
 - Download the zip file 
